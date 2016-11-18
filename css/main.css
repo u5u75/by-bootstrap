@@ -1,0 +1,36 @@
+    body{
+			padding-top:50px;
+      padding-bottom:50px;
+		}
+    .carousel{
+      height:500px;
+      background-color:#000;
+      margin-bottom:60px;
+    }
+    .carousel .item{
+      height:500px;
+      background-color:#000;
+    }
+    .carousel-caption p{
+      font-size:20px;
+      margin:bottom:20px;
+      line-height:1.8;
+    }
+    #summary-container .col-md-4{
+      text-align:center;
+    }
+    .divider{
+      margin:40px 0;
+    }
+    .feature{
+      padding:30px;
+    }
+    .feature-heading{
+      font-size:50px;
+      color:#2a6496;
+      marging-top:120px;
+    }
+    .feature-heading .text-muted{
+      font-size:28px;
+      color:#999;
+    }
